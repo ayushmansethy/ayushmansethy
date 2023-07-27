@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Medical report manegement systemm**
 
-- 🌱 I’m currently learning **elctron js**<img src="code.gif" align="right" alt="code" height="200px" width="200px" />
+- 🌱 I’m currently learning **elctron js**<img src="code.gif" align="right" alt="code" height="200px" width="300px" />
 
 - 🤝 I’m looking for help with **jobs and freelancing**
 
