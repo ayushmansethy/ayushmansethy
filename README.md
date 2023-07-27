@@ -4,11 +4,11 @@
 <h3 align="center">A passionate backend developer from india.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushmansethy&label=Profile%20views&color=0e75b6&style=flat" alt="ayushmansethy" /> </p>
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=ayushmansethy&label=Profile%20views&color=0e75b6&style=flat" alt="ayushmansethy" /> </span>
 
 - 🔭 I’m currently working on **Medical report manegement systemm**
 
-- 🌱 I’m currently learning **elctron js**
+- 🌱 I’m currently learning **elctron js**<img src="code.gif" align="right" alt="code" height="200px" width="200px" />
 
 - 🤝 I’m looking for help with **jobs and freelancing**
 
