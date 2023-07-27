@@ -1,4 +1,4 @@
-![OpenAI Logo](./giphy.webp)
+![OpenAI Logo](giphy.webp)
 
 <h1 align="center">Hi 👋, I'm AYUSHMAN SETHY 🧑‍🏫</h1>
 <h3 align="center">A passionate backend developer from india.</h3>
