@@ -1,4 +1,4 @@
-<p align="center"> <img src="typing.gif" alt="ayushmansethy" height ="200px" width="100%" /> </p>
+<p align="center"> <img src="typing.gif" alt="ayushmansethy" height ="200px" width="100%" alt="typing.image" /> </p>
 
 <h1 align="center">Hi 👋, I'm AYUSHMAN SETHY 🧑‍🏫</h1>
 <h3 align="center">A passionate backend developer from india.</h3>
