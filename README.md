@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Medical report manegement systemm**
 
-- 🌱 I’m currently looking for collaborartion with **sprping boot project**<img src="code.gif" align="right" alt="code" height="200px" width="300px" />
+- 🌱 I’m currently looking for collaborartion with **spring boot project**<img src="code.gif" align="right" alt="code" height="200px" width="300px" />
 
 - 🤝 I am working at Quinnox Consultancy Service
 
