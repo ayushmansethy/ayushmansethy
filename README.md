@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **Medical report manegement systemm**
 
-- 🌱 I’m currently learning **elctron js**<img src="code.gif" align="right" alt="code" height="200px" width="300px" />
+- 🌱 I’m currently looking for collaborartion with **sprping boot project**<img src="code.gif" align="right" alt="code" height="200px" width="300px" />
 
-- 🤝 I’m looking for help with **jobs and freelancing**
+- 🤝 I am working at Quinnox Consultancy Service
 
-- 💬 Ask me about **node.js | express | python**
+- 💬 Ask me about **JAVA |  AZURE | Docker**
 
 - 📫 How to reach me **ayush15chinku@gmail.com**
 
